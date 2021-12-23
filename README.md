@@ -1,8 +1,8 @@
 # rust-shaking
-Try to understanding rust syntax limits
+Try to reach rust syntax limits
 
 
-'''
+<code>
 RUST_BACKTRACE=1 cargo run
-'''
+</code>
 
